@@ -89,7 +89,7 @@ def trainModel(data, stemmer):
         
     except RuntimeError:
         model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)   
-        model.save("model.tflearn")  
+        model.save("./model.tflearn")  
     
     return  (words,labels, model)  
                         
