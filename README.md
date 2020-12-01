@@ -1,4 +1,4 @@
-# AIChatbot #
+# AI Chatbot API#
 
 ![alt chatbotImage](https://www.ometrics.com/blog/wp-content/uploads/2018/10/chatbot_thumb.png)
 
